@@ -18,12 +18,12 @@
   },
   "employees": [
     {
-      "firstName": "Nandan",
-      "lastName": "KK",
-      "email": "nandu2142000@gmail.com",
+      "firstName": "Bhanupriya",
+      "lastName": "BH",
+      "email": "bhanu@gmail.com",
       "dob": "2023-09-10T18:30:00.000Z",
-      "gender": "male",
-      "education": "Post Graduate",
+      "gender": "female",
+      "education": "Graduate",
       "company": "Loginware",
       "experience": 1,
       "package": 2,
@@ -42,9 +42,9 @@
       "id": 4
     },
     {
-      "firstName": "Kishan",
-      "lastName": "EM",
-      "email": "kishan@gmail.com",
+      "firstName": "Pooja",
+      "lastName": "DN",
+      "email": "pooja@gmail.com",
       "dob": "2023-09-04T18:30:00.000Z",
       "gender": "male",
       "education": "Graduate",
